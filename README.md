@@ -2,6 +2,6 @@
 
 - **Year**: 2018
 - **Platform**: Coursera
-- **Link**: https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2
+- **Link**: https://www.coursera.org/learn/ciencia-computacao-python-conceitos
 - **Technologies**: Python
 - **IDE**: Python IDLE
